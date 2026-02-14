@@ -65,7 +65,3 @@ Buzzer    → D25 & GND
 ## License
 
 MIT
-
-```
-
-```
